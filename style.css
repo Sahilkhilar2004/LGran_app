@@ -10,10 +10,6 @@
     font-family: "Chivo",sans-serif;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 .home{
     width: 100%;
     min-height:100vh ;
@@ -107,6 +103,8 @@ nav{
     font-size: 20px;
     font-weight: 400;
 }
+
+
 
 .nav .logo img{
     width: 145px;
@@ -445,6 +443,10 @@ option {
     font-size: 24px;
   }
 
+  .contact-box a p{
+    color: white;
+  }
+
   .contact-box h2{
     font-size: 32px;
     font-weight: lighter;
@@ -483,3 +485,19 @@ option {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
